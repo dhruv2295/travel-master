@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/login" android:title="Login"
+        android:orderInCategory="100" app:showAsAction="always" />
+</menu>
+<!-- From: file:/D:/Dhruv/Desktop/App%20stuff/events-guide-master/app/src/main/res/menu/menu_main.xml -->

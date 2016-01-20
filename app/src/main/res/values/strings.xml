@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travelling Punjab</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="chooser_title">Share via</string>
+    <string name="title_activity_tourist_des">TouristDes</string>
+
+
+    <string name="title_activity_destination">Destination</string>
+    <string name="title_activity_des">DesActivity</string>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="5dp"
+    android:layout_marginLeft="5dp"
+    android:background="@drawable/shadow_1"
+    android:descendantFocusability="beforeDescendants">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:scaleType="centerCrop"
+            android:id="@+id/im"
+            android:background="@drawable/minion"
+            android:alpha="0.2"
+            />
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="100dp">
+
+    <TextView
+        android:id="@+id/city"
+        android:text=" India Gate "
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="8dp"
+        android:paddingTop="0dp"
+        android:layout_width="122dp"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_weight="4.80"
+        android:layout_gravity="center"
+        android:layout_centerVertical="true"
+         />
+
+    <TextView
+        android:id="@+id/name"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="5dp"
+        android:paddingTop="8dp"
+        android:text=" Destination Name"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:layout_gravity="left|top"
+        android:layout_above="@+id/city"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
+
+    <com.gc.materialdesign.views.ButtonRectangle
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="#1E88E5"
+            android:text=" Locate "
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:padding="10dp"
+
+            android:layout_gravity="right|top" />
+
+</FrameLayout>
+

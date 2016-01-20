@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\org.lucasr.twowayview\twowayview\0.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a2a997b75e4c94dac7051557be6b95a06566291">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-d72087984ab0cb6acb3b585b554cef34ec1c6adc.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="aba9317bc403d69d8a571c0a72acfe95698a5db0">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-bcf4c29dbdc06355b0f62d3fdd61ca39d5a4e8ee.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-bbff1699f8bed02f6cd8808848ee6db50bacde15.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\it.neokree\MaterialNavigationDrawer\1.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0640bc34b0f25196f82fe1e707a437bd4a405933">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-3eac1dd2c6d4c94d65b90ca9cc1328599d60ad3e.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-42eeb791bc70a8129d88c4961b61618aa3fadc37.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dhruv\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-f3c8eaf9634202c07553315d3567f1cf262cb8ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dhruv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-fd36d24ac0242bfc87515598b09b8236df71052f.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-fb9d97c6a62cbdebb8be8b76586ca24607ba8505.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.cocosw\bottomsheet\1.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a993e50d32f510babac974a7e26b03e29790458">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-b4c5c3d46c4659215f5eb91407f94d4fdc1a8ae7.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-d031ce79ac06011fa5e7c15376877aea01790d3e.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.rengwuxian.materialedittext\library\2.1.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="288913b440a3c61c30aa171095453a605432277a">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-ee8a779cab348a1934993cb8980480884fffa635.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dhruv\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\library-2.4.0-43e1e1a68082fa9f1738c74861178b0389802337.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.5\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="12b228574de7977e56e41cbfb385b1463bbdb41a">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-6d3f0a0041f1148ba11f6887269f1f511b288f70.jar" />
+    </item>
+    <item
+        jar="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Dhruv\Desktop\events-guide-master\app\build\intermediates\pre-dexed\debug\classes-cbc5bc3120d76c6b53219d9102128171aa7dc01d.jar" />
+    </item>
+
+</items>
